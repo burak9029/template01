@@ -1,0 +1,20 @@
+{
+
+  "description": "The Laravel Lumen Framework.",
+  "keywords": [
+    "framework",
+    "laravel",
+    "lumen"
+  ],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "name": "laravel/lumen",
+  "prefer-stable": true,
+  "require": {
+    "php": "^7.2"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  },
+  "type": "project"
+}
